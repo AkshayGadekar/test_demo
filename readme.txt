@@ -1,0 +1,3 @@
+Hello Git!
+
+Git is amazing version control solution...
